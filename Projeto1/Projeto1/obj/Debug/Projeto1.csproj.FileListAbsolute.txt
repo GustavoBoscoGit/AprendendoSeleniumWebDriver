@@ -13,3 +13,5 @@ C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.CoreC
 C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.CopyComplete
 C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\obj\Debug\Projeto1.dll
 C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\obj\Debug\Projeto1.pdb
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\WebDriver.dll
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\WebDriver.Support.dll
