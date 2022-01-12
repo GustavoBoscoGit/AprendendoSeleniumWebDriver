@@ -9,6 +9,8 @@ namespace Projeto1
         [TestMethod]
         public void TestMethod1()
         {
-        }
+            Console.WriteLine("teste selenium");
+        } 
     }
-}
+
+} 

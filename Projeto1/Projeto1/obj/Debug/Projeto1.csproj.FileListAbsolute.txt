@@ -1,0 +1,15 @@
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\Projeto1.dll
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\Projeto1.pdb
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.AssemblyReference.cache
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.CopyComplete
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\obj\Debug\Projeto1.dll
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\obj\Debug\Projeto1.pdb
