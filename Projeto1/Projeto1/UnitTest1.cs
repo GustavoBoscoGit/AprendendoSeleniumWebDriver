@@ -9,35 +9,37 @@ namespace Projeto1
     public class UnitTest1
     {
 
-
-        string ActualResult;
-        string ExpectedResult = "Google";
+        //create a reference to chrome browser
+        IWebDriver driver = new ChromeDriver();
 
         [TestMethod]
         public void TestMethod1()
         {
-            //create a reference to chrome browser
-            IWebDriver driver = new ChromeDriver();
-
             // visit a web page
-            driver.Navigate().GoToUrl("https://google.com");
+            driver.Navigate().GoToUrl("https://amazon.com");
 
             //full screen
             driver.Manage().Window.Maximize();
 
-            //find the element 
-            IWebElement searchBox = driver.FindElement(By.Name("q"));
+            //operations
+            IWebElement SingIn = driver.FindElement(By.Id("nav-link-accountList"));
+            SingIn.Click();
 
-            //type something in the search bar
-            searchBox.SendKeys("hello world");
+            IWebElement EmailField = driver.FindElement(By.Id("ap_email"));
+            EmailField.SendKeys("EmailTesteTeste@Teste.com");
 
-            //get page title
-            ActualResult = driver.Title;
+            IWebElement ContinueBtn = driver.FindElement(By.Id("continue"));
+            ContinueBtn.Click();
 
-            Assert.AreEqual(ActualResult, ExpectedResult);
+            IWebElement ErrorMessage = driver.FindElement(By.ClassName("a-alert-heading"));
+            string ActualErrorMessaageText = ErrorMessage.Text;
+            string ExpectedErrorMessageText = "There was a problem";
 
-            //close the browser
-            driver.Quit();
+            Assert.AreEqual(ExpectedErrorMessageText, ActualErrorMessaageText);
+
+
+
+
         }
     }
 
