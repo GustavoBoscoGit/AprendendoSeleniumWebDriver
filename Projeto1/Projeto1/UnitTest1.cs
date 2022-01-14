@@ -8,7 +8,6 @@ namespace Projeto1
     [TestClass]
     public class UnitTest1
     {
-
         //create a reference to chrome browser
         IWebDriver driver = new ChromeDriver();
 
@@ -36,9 +35,6 @@ namespace Projeto1
             string ExpectedErrorMessageText = "There was a problem";
 
             Assert.AreEqual(ExpectedErrorMessageText, ActualErrorMessaageText);
-
-
-
 
         }
     }

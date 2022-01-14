@@ -15,3 +15,5 @@ C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\obj\Debug\Projeto1.dll
 C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\obj\Debug\Projeto1.pdb
 C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\WebDriver.dll
 C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\WebDriver.Support.dll
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\nunit.framework.dll
+C:\AprendendoSeleniumWebDriver\Projeto1\Projeto1\bin\Debug\nunit.framework.xml
